@@ -1,0 +1,13 @@
+name: experiment
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - matplotlib
+  - networkx
+  - ipywidgets
+  - voila
+  - pip
+  - pip:
+      - jax
+      - jaxlib
